@@ -1,0 +1,26 @@
+body
+{
+  background-color:#c66c81;
+}
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a5449e;
+  border-width: 15px;
+  width: 20%;
+}
+h1 {
+  color:#60c0e1;
+  font-family:sans-serif;
+  text-decoration: underline;
+}
+li{
+  font-style: italic;
+  font-size:20px
+}
+td
+{
+  color:orange;
+  font-size:20px
+}
